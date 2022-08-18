@@ -1,0 +1,23 @@
+.bg {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  background-position: center;
+}
+.garden {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border: 5px;
+  border-radius: 10px;
+}
+
+.ball {
+  position: absolute;
+  top: 90px;
+  left: 90px;
+  width: 30px;
+  height: 30px;
+  background: black;
+  border-radius: 100%;
+}
